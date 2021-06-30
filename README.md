@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src=""" width="80%"/>
+    <img src="https://user-images.githubusercontent.com/53491128/124023138-01af1180-d9c4-11eb-8fb9-123f817921c8.png" width="80%"/>
     </h1>
 
 
@@ -54,9 +54,6 @@ $ yarn dev or npm run dev
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/AmandaCarvalho1989/todo-ignite-challenge/blob/main/LICENSE.md) file for details
 
 <p align="center">Made with 💜 by Amanda Carvalho</p>
-
-
-
 
 
 
